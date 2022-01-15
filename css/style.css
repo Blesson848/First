@@ -82,12 +82,12 @@ footer img   {
 /* styling our main content */
 .hero           {
   min-height: 800px;
-  text-align: center;
-  background-image: url('../img/messi.jpg');
+  text-align: left;
+  background-image: url('../img/messi2.jpg');
   background-size: cover;
 }
 .hero-content   {
-  color: #FFF;
+  color: #ffb79b;
   padding-top: 130px;
 }
 .hero-content h1   {
